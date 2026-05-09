@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "synonyms",
+  "name": "findsynonyms",
   "title": "Find Synonyms",
   "description": "Finds synonyms for a word",
   "icon": "extension-icon.png",
